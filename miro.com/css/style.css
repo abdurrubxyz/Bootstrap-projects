@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+
+}
+
+a,span {
+    text-decoration: none;
+    display: inline-block;
+}
+
+p {
+    margin: 0;
+}
+
+.hero {
+    padding: 100px 0px;
+}
+
+nav {
+    padding: 20px;
+    border-bottom: 1px solid rgb(240, 240, 240);
+}
+
+.nav-wrapper a {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+}
+
+.nav-wrapper > div > div:nth-child(2) > a:last-child {
+    color: rgb(255, 255, 255);
+    background-color: rgb(66, 98, 255);
+    padding: 15px 35px;
+    border-radius: 24px;
+}
+
+/* */
+.hero-wrapper h1 {
+    font-size: 48px;
+    line-height: 56px;
+    color: rgb(5, 0, 56);
+}
+
+.hero-wrapper form input {
+    width: 60%;
+    border-radius: 32px;
+    border: ;
+}
+
+.hero-wrapper form button {
+    width: 60%;
+
+}
