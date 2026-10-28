@@ -138,3 +138,70 @@ nav {
 .build {
   padding: 100px 0px;
 }
+
+.build-wrapper a {
+  color: #050038;
+  padding: 20px 15px;
+  border-radius: 24px;
+  border: 1px solid #F2F2F2 ;
+}
+
+.build .para-heading  {
+  font-size: 18px;
+  color: #050038;
+}
+
+.build h1 {
+  font-size: 48px;
+  color: #050038;
+}
+/*  */
+.build-2 {
+  padding: 100px 0px;
+}
+
+.build-2 h1 {
+  font-size: 48px;
+  color: #050038;
+}
+
+.build-wrapper-2 a{
+  color: #050038;
+  padding: 20px 15px;
+  border-radius: 24px;
+  border: 1px solid #F2F2F2 ;
+}
+/*  */
+.trust-miro {
+  padding: 100px 0px;
+  background-color: #FFD02F;
+}
+.trust-miro-heading h1 {
+  color: #050038;
+  font-size: 48px;
+} 
+.trust-miro-heading p {
+  color: #050038;
+  font-size: 18px;
+}
+.trust-miro-heading {
+  margin-bottom: 100px;
+}
+
+.trust-miro-wrapper h1 {
+  font-size: 55px;
+  color: #050038;
+}
+
+.trust-miro-wrapper div:first-child {
+  margin-bottom: 50px;
+}
+
+.trust-miro-wrapper p {
+  font-size: 18px;
+  color: #050038;
+}
+
+.loved {
+  padding: 100px 0px;
+}
