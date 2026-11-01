@@ -205,3 +205,35 @@ nav {
 .loved {
   padding: 100px 0px;
 }
+/*  */
+.footer-up {
+  padding: 100px 0px;
+}
+.container-up {
+  background-color: #050038;
+  border-radius: 16px;
+  padding: 100px;
+  color: #ffffff;
+}
+.footer-up-wrappe h1 {
+  font-size: 48px;
+  
+}
+.footer-up-wrappe p {
+  font-size: 18px;
+}
+/*  */
+footer {
+  padding-top:100px;
+  background-color: #050038;
+
+}
+.footer-wrapper a {
+  margin-bottom: 15px;
+  color: #ffffff;
+}
+.footer-wrapper p {
+  margin-bottom: 20px;
+  font-size: 18px;
+  color: #ffffff;
+}
