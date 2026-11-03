@@ -25,7 +25,8 @@ body {
 }
 
 .hero-wrapper,
-.gravity-team {
+.gravity-team,
+.crypto-market {
   padding: 100px 0px;
 }
 
@@ -149,4 +150,39 @@ nav a:hover {
   .gravity-team-wrapper > .row > .col-div:nth-child(7) {
     border-bottom: 2px solid #6f91a5;
   }
+}
+
+/*  */
+.crypto-market-heading h1 {
+  color: var(--white-color-);
+  font-size: 56px;
+}
+
+.crypto-market-heading p {
+  color: var(--para-color-);
+  line-height: 30px;
+  font-size: 20px;
+}
+
+.crypto-market-wrapper > div > div >p:nth-child(1) {
+  color: var(--white-color-);
+  font-size: 36px;
+  line-height: 44px;
+}
+
+.crypto-market-wrapper > div > div >p:nth-child(2) {
+  color: var(--white-color-);
+  font-size: 20px;
+} 
+
+.crypto-market-wrapper > div > div >p:nth-child(3) {
+  color: var(--para-color-);
+  line-height: 30px;
+  font-size: 20px;
+}
+
+.crypto-market-wrapper a {
+  color: var(--white-color-);
+  font-size: 18px;
+  border-bottom: 2px solid #6f91a5;
 }
